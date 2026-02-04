@@ -1,0 +1,98 @@
+{
+  "updated_at": "2026-02-04T12:49:14.926539",
+  "total_projects": 1831,
+  "total_capacity_gw": 415.4,
+  "by_fuel_type": {
+    "Battery Storage": {
+      "capacity_mw": 167568.9,
+      "capacity_gw": 167.57,
+      "count": 928
+    },
+    "Gas": {
+      "capacity_mw": 48082.2,
+      "capacity_gw": 48.08,
+      "count": 98
+    },
+    "Other": {
+      "capacity_mw": 2143.7,
+      "capacity_gw": 2.14,
+      "count": 10
+    },
+    "Solar": {
+      "capacity_mw": 151117.2,
+      "capacity_gw": 151.12,
+      "count": 639
+    },
+    "Wind": {
+      "capacity_mw": 46446.3,
+      "capacity_gw": 46.45,
+      "count": 156
+    }
+  },
+  "by_status": {
+    "Active": 1257,
+    "Completed": 574
+  },
+  "by_county": {
+    "Pecos": {
+      "capacity_mw": 12284.1,
+      "count": 40
+    },
+    "Brazoria": {
+      "capacity_mw": 11496.6,
+      "count": 55
+    },
+    "Milam": {
+      "capacity_mw": 9360.9,
+      "count": 33
+    },
+    "Wharton": {
+      "capacity_mw": 9066.3,
+      "count": 40
+    },
+    "Harris": {
+      "capacity_mw": 8655.0,
+      "count": 37
+    },
+    "Wilbarger": {
+      "capacity_mw": 7263.3,
+      "count": 21
+    },
+    "San Patricio": {
+      "capacity_mw": 7245.4,
+      "count": 30
+    },
+    "Mitchell": {
+      "capacity_mw": 7176.6,
+      "count": 17
+    },
+    "Jack": {
+      "capacity_mw": 6746.1,
+      "count": 17
+    },
+    "Lamar": {
+      "capacity_mw": 6660.0,
+      "count": 28
+    },
+    "Reeves": {
+      "capacity_mw": 6492.1,
+      "count": 18
+    },
+    "Cameron": {
+      "capacity_mw": 6175.2,
+      "count": 27
+    },
+    "Upton": {
+      "capacity_mw": 6080.6,
+      "count": 20
+    },
+    "Borden": {
+      "capacity_mw": 6079.6,
+      "count": 17
+    },
+    "Matagorda": {
+      "capacity_mw": 5546.0,
+      "count": 27
+    }
+  }
+}

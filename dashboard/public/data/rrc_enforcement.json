@@ -1,0 +1,158 @@
+{
+  "updated_at": "2026-02-04T12:49:23.310808",
+  "total_recent": 6292,
+  "items": [
+    {
+      "date": "2026-01-30",
+      "operator": "SUPREME ENERGY COMPANY, INC.",
+      "county": "SUTTON",
+      "headline": "SUPREME ENERGY COMPANY, INC.: Inactive Unplugged Well - SUTTON County",
+      "type": "violation",
+      "rule": "SWR 14(b)(2)",
+      "rule_description": "Inactive Unplugged Well",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-30",
+      "operator": "SUPREME ENERGY COMPANY, INC.",
+      "county": "SUTTON",
+      "headline": "SUPREME ENERGY COMPANY, INC.: Inactive Unplugged Well - SUTTON County",
+      "type": "violation",
+      "rule": "SWR 14(b)(2)",
+      "rule_description": "Inactive Unplugged Well",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "XTO ENERGY INC.",
+      "county": "MIDLAND",
+      "headline": "XTO ENERGY INC.: Unpermitted Disposal of Oil and Gas Wastes - MIDLAND County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "OCCIDENTAL PERMIAN LTD.",
+      "county": "YOAKUM",
+      "headline": "OCCIDENTAL PERMIAN LTD.: Unpermitted Disposal of Oil and Gas Wastes - YOAKUM County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "HILCORP ENERGY COMPANY",
+      "county": "YOAKUM",
+      "headline": "HILCORP ENERGY COMPANY: Unpermitted Disposal of Oil and Gas Wastes - YOAKUM County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "HALCON OPERATING CO., INC.",
+      "county": "WARD",
+      "headline": "HALCON OPERATING CO., INC.: Unpermitted Disposal of Oil and Gas Wastes - WARD County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "KINDER MORGAN PRODUCTION CO LLC",
+      "county": "SCURRY",
+      "headline": "KINDER MORGAN PRODUCTION CO LLC: Unpermitted Disposal of Oil and Gas Wastes - SCURRY County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "EAGLERIDGE OPERATING, LLC",
+      "county": "WISE",
+      "headline": "EAGLERIDGE OPERATING, LLC: Unpermitted Disposal of Oil and Gas Wastes - WISE County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "DIAMONDBACK E&P LLC",
+      "county": "MIDLAND",
+      "headline": "DIAMONDBACK E&P LLC: Unpermitted Disposal of Oil and Gas Wastes - MIDLAND County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    },
+    {
+      "date": "2026-01-29",
+      "operator": "LDX OPERATING COMPANY, LLC.",
+      "county": "OLDHAM",
+      "headline": "LDX OPERATING COMPANY, LLC.: Unpermitted Disposal of Oil and Gas Wastes - OLDHAM County",
+      "type": "violation",
+      "rule": "4.103(a)",
+      "rule_description": "Unpermitted Disposal of Oil and Gas Wastes",
+      "status": "Notice of Violation",
+      "major": false
+    }
+  ],
+  "by_type": {
+    "Proper Construction and Maintenance of Power Line to Well": 1275,
+    "Inactive Unplugged Well": 1203,
+    "Unpermitted Disposal of Oil and Gas Wastes": 1014,
+    "Well Sign": 615,
+    "Rubbish or Debris Might Constitute a Fire Hazard": 379,
+    "Surface Control of Well": 291,
+    "Entrance Sign": 227,
+    "Battery Sign; Commingling Permit": 164,
+    "Compliance with Permit Conditions": 161,
+    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 154
+  },
+  "by_status": {
+    "Notice of Violation": 5119,
+    "Referred to Austin Field Ops for possible legal enforcement": 819,
+    "Referred to State-Managed Plugging": 279,
+    "Referred to State-Managed Cleanup Program": 28,
+    "Issued a Severance/Seal Order": 47
+  },
+  "by_county": {
+    "WICHITA": 578,
+    "HUTCHINSON": 477,
+    "GRAY": 445,
+    "CARSON": 215,
+    "CALDWELL": 184,
+    "ARCHER": 145,
+    "UPTON": 124,
+    "WILBARGER": 122,
+    "YOUNG": 121,
+    "MONTAGUE": 113,
+    "CLAY": 101,
+    "OCHILTREE": 89,
+    "SAN PATRICIO": 88,
+    "PECOS": 84,
+    "SHACKELFORD": 84,
+    "ECTOR": 79,
+    "CROCKETT": 79,
+    "JACKSON": 73,
+    "JONES": 70,
+    "WHEELER": 69
+  },
+  "major_violations": 8
+}
