@@ -28,10 +28,14 @@ jobs:
           cd data-pipeline
           python run_all.py
 
+      - name: Sync data to dashboard
+        run: |
+          cp -f public/data/*.json dashboard/public/data/
+
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet public/data/; then
+          if git diff --quiet public/data/ dashboard/public/data/; then
             echo "changes=false" >> $GITHUB_OUTPUT
           else
             echo "changes=true" >> $GITHUB_OUTPUT
@@ -42,12 +46,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add public/data/
+          git add public/data/ dashboard/public/data/
           git commit -m "chore: update dashboard data $(date -u +%Y-%m-%d)"
           git push
 
       - name: Trigger Netlify deploy
         if: steps.check_changes.outputs.changes == 'true'
         run: |
-          # Netlify will auto-deploy on push if connected to repo
-          echo "Data updated - Netlify will auto-deploy"
+          curl -X POST "${{ secrets.NETLIFY_BUILD_HOOK }}"
