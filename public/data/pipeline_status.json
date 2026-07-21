@@ -1,17 +1,17 @@
 {
-  "run_timestamp": "2026-07-21T13:03:10.975372+00:00",
+  "run_timestamp": "2026-07-21T13:08:51.525116+00:00",
   "pipelines": {
     "ercot": {
       "status": "success",
-      "timestamp": "2026-07-21T13:03:12.150483+00:00"
+      "timestamp": "2026-07-21T13:08:54.480680+00:00"
     },
     "rrc_permits": {
       "status": "success",
-      "timestamp": "2026-07-21T13:03:13.583781+00:00"
+      "timestamp": "2026-07-21T13:08:56.406021+00:00"
     },
     "rrc_enforcement": {
       "status": "success",
-      "timestamp": "2026-07-21T13:03:25.282804+00:00"
+      "timestamp": "2026-07-21T13:09:15.598969+00:00"
     }
   }
 }
