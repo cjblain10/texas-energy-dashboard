@@ -6,7 +6,7 @@ Orchestrates fetching from ERCOT, RRC permits, and RRC enforcement.
 
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 # Import our data fetchers
@@ -15,16 +15,20 @@ from fetch_rrc_permits import main as fetch_permits
 from fetch_rrc_enforcement import main as fetch_enforcement
 
 
+def now_iso():
+    return datetime.now(timezone.utc).isoformat()
+
+
 def run_all_pipelines():
     """Run all data collection pipelines and generate status report."""
 
     print("=" * 60)
     print("Texas Energy Dashboard - Data Pipeline")
-    print(f"Started: {datetime.now().isoformat()}")
+    print(f"Started: {now_iso()}")
     print("=" * 60)
 
     results = {
-        "run_timestamp": datetime.now().isoformat(),
+        "run_timestamp": now_iso(),
         "pipelines": {}
     }
 
@@ -34,14 +38,14 @@ def run_all_pipelines():
         ercot_success = fetch_ercot()
         results["pipelines"]["ercot"] = {
             "status": "success" if ercot_success else "failed",
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
     except Exception as e:
         print(f"ERCOT pipeline error: {e}")
         results["pipelines"]["ercot"] = {
             "status": "error",
             "error": str(e),
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
 
     # Run RRC Permits pipeline
@@ -50,14 +54,14 @@ def run_all_pipelines():
         permits_success = fetch_permits()
         results["pipelines"]["rrc_permits"] = {
             "status": "success" if permits_success else "failed",
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
     except Exception as e:
         print(f"RRC Permits pipeline error: {e}")
         results["pipelines"]["rrc_permits"] = {
             "status": "error",
             "error": str(e),
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
 
     # Run RRC Enforcement pipeline
@@ -66,14 +70,14 @@ def run_all_pipelines():
         enforcement_success = fetch_enforcement()
         results["pipelines"]["rrc_enforcement"] = {
             "status": "success" if enforcement_success else "failed",
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
     except Exception as e:
         print(f"RRC Enforcement pipeline error: {e}")
         results["pipelines"]["rrc_enforcement"] = {
             "status": "error",
             "error": str(e),
-            "timestamp": datetime.now().isoformat()
+            "timestamp": now_iso()
         }
 
     # Save pipeline status
@@ -97,7 +101,7 @@ def run_all_pipelines():
         if status_str != "success":
             all_success = False
 
-    print(f"\nCompleted: {datetime.now().isoformat()}")
+    print(f"\nCompleted: {now_iso()}")
     print("=" * 60)
 
     return all_success

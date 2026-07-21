@@ -5,7 +5,7 @@ Downloads current month permits from RRC MFT portal (daf420.dat).
 """
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import pandas as pd
@@ -183,8 +183,8 @@ def fetch_rrc_permit_data():
     except Exception as e:
         print(f"Error fetching from MFT: {e}")
 
-    print("Using sample permit data as fallback")
-    return generate_sample_permits()
+    print("RRC permit source unavailable; refusing to publish sample data")
+    return []
 
 
 def generate_sample_permits():
@@ -215,7 +215,7 @@ def process_permit_data(permits):
         df['permit_date'] = pd.to_datetime(df['permit_date'], errors='coerce')
 
     result = {
-        "updated_at": datetime.now().isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_permits_30d": 0,
         "by_basin": {},
         "by_county": {},

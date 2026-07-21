@@ -5,7 +5,7 @@ Downloads VIOLATIONS.txt from RRC MFT portal (pipe-delimited, updated weekly).
 """
 
 import json
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -53,7 +53,7 @@ def fetch_violations_data():
         response = download_from_mft(mft_url, file_index=13)
         if response is None:
             print("MFT download failed")
-            return generate_sample_enforcement()
+            return []
 
         # Stream-read the file - it can be large (100MB+)
         # Read header first, then collect recent violations
@@ -92,7 +92,7 @@ def fetch_violations_data():
 
     except Exception as e:
         print(f"Error fetching violations: {e}")
-        return generate_sample_enforcement()
+        return []
 
 
 def generate_sample_enforcement():
@@ -128,7 +128,7 @@ def process_enforcement_data(violations):
     violations.sort(key=lambda x: x.get('VIOLATION_DISC_DATE', ''), reverse=True)
 
     result = {
-        "updated_at": datetime.now().isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_recent": len(violations),
         "items": [],
         "by_type": {},

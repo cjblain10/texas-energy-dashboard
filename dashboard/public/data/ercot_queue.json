@@ -1,97 +1,102 @@
 {
-  "updated_at": "2026-02-04T12:49:14.926539",
-  "total_projects": 1831,
-  "total_capacity_gw": 415.4,
+  "updated_at": "2026-07-21T13:03:12.146243+00:00",
+  "total_projects": 1793,
+  "total_capacity_gw": 433.7,
   "by_fuel_type": {
     "Battery Storage": {
-      "capacity_mw": 167568.9,
-      "capacity_gw": 167.57,
-      "count": 928
+      "capacity_mw": 162368.7,
+      "capacity_gw": 162.37,
+      "count": 885
     },
     "Gas": {
-      "capacity_mw": 48082.2,
-      "capacity_gw": 48.08,
-      "count": 98
+      "capacity_mw": 69663.4,
+      "capacity_gw": 69.66,
+      "count": 120
+    },
+    "Nuclear": {
+      "capacity_mw": 1336.5,
+      "capacity_gw": 1.34,
+      "count": 1
     },
     "Other": {
-      "capacity_mw": 2143.7,
-      "capacity_gw": 2.14,
-      "count": 10
+      "capacity_mw": 1643.6,
+      "capacity_gw": 1.64,
+      "count": 7
     },
     "Solar": {
-      "capacity_mw": 151117.2,
-      "capacity_gw": 151.12,
-      "count": 639
+      "capacity_mw": 151617.0,
+      "capacity_gw": 151.62,
+      "count": 623
     },
     "Wind": {
-      "capacity_mw": 46446.3,
-      "capacity_gw": 46.45,
-      "count": 156
+      "capacity_mw": 47076.1,
+      "capacity_gw": 47.08,
+      "count": 157
     }
   },
   "by_status": {
-    "Active": 1257,
-    "Completed": 574
+    "Active": 1224,
+    "Completed": 569
   },
   "by_county": {
     "Pecos": {
-      "capacity_mw": 12284.1,
-      "count": 40
+      "capacity_mw": 20399.0,
+      "count": 54
     },
     "Brazoria": {
-      "capacity_mw": 11496.6,
-      "count": 55
+      "capacity_mw": 12280.1,
+      "count": 58
     },
     "Milam": {
-      "capacity_mw": 9360.9,
+      "capacity_mw": 9196.4,
       "count": 33
     },
     "Wharton": {
-      "capacity_mw": 9066.3,
+      "capacity_mw": 9093.2,
       "count": 40
     },
-    "Harris": {
-      "capacity_mw": 8655.0,
-      "count": 37
-    },
-    "Wilbarger": {
-      "capacity_mw": 7263.3,
+    "Reeves": {
+      "capacity_mw": 8061.3,
       "count": 21
     },
-    "San Patricio": {
-      "capacity_mw": 7245.4,
-      "count": 30
+    "Hill": {
+      "capacity_mw": 7988.9,
+      "count": 24
     },
-    "Mitchell": {
-      "capacity_mw": 7176.6,
-      "count": 17
+    "Harris": {
+      "capacity_mw": 7029.1,
+      "count": 32
     },
-    "Jack": {
-      "capacity_mw": 6746.1,
-      "count": 17
-    },
-    "Lamar": {
-      "capacity_mw": 6660.0,
-      "count": 28
-    },
-    "Reeves": {
-      "capacity_mw": 6492.1,
-      "count": 18
-    },
-    "Cameron": {
-      "capacity_mw": 6175.2,
-      "count": 27
-    },
-    "Upton": {
-      "capacity_mw": 6080.6,
+    "Wilbarger": {
+      "capacity_mw": 6961.5,
       "count": 20
     },
-    "Borden": {
-      "capacity_mw": 6079.6,
-      "count": 17
+    "San Patricio": {
+      "capacity_mw": 6856.0,
+      "count": 27
+    },
+    "Deaf Smith": {
+      "capacity_mw": 6594.3,
+      "count": 11
     },
     "Matagorda": {
-      "capacity_mw": 5546.0,
+      "capacity_mw": 6335.5,
+      "count": 26
+    },
+    "Zapata": {
+      "capacity_mw": 6290.7,
+      "count": 27
+    },
+    "Mitchell": {
+      "capacity_mw": 6133.0,
+      "count": 14
+    },
+    "Jack": {
+      "capacity_mw": 6092.4,
+      "count": 16
+    },
+    "Cameron": {
+      "capacity_mw": 6062.0,
       "count": 27
     }
   }

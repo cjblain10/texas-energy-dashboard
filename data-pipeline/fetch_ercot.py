@@ -5,7 +5,7 @@ Fetch ERCOT Generation Interconnection Queue data via gridstatus library.
 
 import json
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 logging.basicConfig(level=logging.INFO)
@@ -113,7 +113,7 @@ def process_queue_data(df):
             break
 
     result = {
-        "updated_at": datetime.now().isoformat(),
+        "updated_at": datetime.now(timezone.utc).isoformat(),
         "total_projects": len(df),
         "total_capacity_gw": 0,
         "by_fuel_type": {},
