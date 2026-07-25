@@ -1,45 +1,41 @@
 {
-  "updated_at": "2026-07-24T06:57:47.971286+00:00",
+  "updated_at": "2026-07-25T06:52:55.698498+00:00",
   "total_permits_30d": 481,
   "by_basin": {
-    "Other": 271,
-    "Permian": 182,
-    "Eagle Ford": 25,
+    "Other": 283,
+    "Permian": 169,
+    "Eagle Ford": 26,
     "Anadarko": 3
   },
   "by_county": {
     "ANDREWS": 37,
     "REEVES": 20,
-    "MIDLAND": 19,
     "LOVING": 18,
     "REAGAN": 14,
     "GAINES": 13,
-    "WEBB": 12,
+    "WEBB": 13,
     "GLASSCOCK": 12,
+    "MIDLAND": 9,
     "UPTON": 9,
     "WARD": 7,
     "MCMULLEN": 6,
     "WINKLER": 6,
     "YOAKUM": 5,
     "MARTIN": 4,
-    "ECTOR": 4,
-    "HOWARD": 4,
     "FRIO": 4,
+    "HOWARD": 4,
     "BORDEN": 3,
     "CRANE": 3,
-    "CULBERSON": 2,
     "LA SALLE": 2,
+    "CULBERSON": 2,
     "HEMPHILL": 2,
+    "ECTOR": 1,
     "POTTER": 1,
     "LIVE OAK": 1,
     "TERRY": 1,
     "SCURRY": 1
   },
   "daily_counts": [
-    {
-      "date": "2026-06-25",
-      "count": 15
-    },
     {
       "date": "2026-06-26",
       "count": 9
@@ -54,7 +50,7 @@
     },
     {
       "date": "2026-07-01",
-      "count": 51
+      "count": 52
     },
     {
       "date": "2026-07-02",
@@ -78,7 +74,7 @@
     },
     {
       "date": "2026-07-08",
-      "count": 37
+      "count": 38
     },
     {
       "date": "2026-07-09",
@@ -86,7 +82,7 @@
     },
     {
       "date": "2026-07-10",
-      "count": 16
+      "count": 18
     },
     {
       "date": "2026-07-12",
@@ -94,7 +90,7 @@
     },
     {
       "date": "2026-07-13",
-      "count": 21
+      "count": 23
     },
     {
       "date": "2026-07-14",
@@ -102,48 +98,48 @@
     },
     {
       "date": "2026-07-15",
-      "count": 23
-    },
-    {
-      "date": "2026-07-16",
       "count": 25
     },
     {
+      "date": "2026-07-16",
+      "count": 26
+    },
+    {
       "date": "2026-07-17",
-      "count": 19
+      "count": 20
     },
     {
       "date": "2026-07-20",
-      "count": 11
+      "count": 15
     },
     {
       "date": "2026-07-21",
-      "count": 6
+      "count": 7
     }
   ],
   "permit_velocity": {
     "ANDREWS": 37,
     "REEVES": 20,
-    "MIDLAND": 19,
     "LOVING": 18,
     "REAGAN": 14,
     "GAINES": 13,
-    "WEBB": 12,
+    "WEBB": 13,
     "GLASSCOCK": 12,
+    "MIDLAND": 9,
     "UPTON": 9,
     "WARD": 7,
     "MCMULLEN": 6,
     "WINKLER": 6,
     "YOAKUM": 5,
     "MARTIN": 4,
-    "ECTOR": 4,
-    "HOWARD": 4,
     "FRIO": 4,
+    "HOWARD": 4,
     "BORDEN": 3,
     "CRANE": 3,
-    "CULBERSON": 2,
     "LA SALLE": 2,
+    "CULBERSON": 2,
     "HEMPHILL": 2,
+    "ECTOR": 1,
     "POTTER": 1,
     "LIVE OAK": 1,
     "TERRY": 1,
