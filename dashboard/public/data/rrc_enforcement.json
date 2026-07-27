@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-25T06:52:59.565372+00:00",
-  "total_recent": 8604,
+  "updated_at": "2026-07-27T07:16:49.193068+00:00",
+  "total_recent": 8499,
   "items": [
     {
       "date": "2026-07-17",
@@ -114,45 +114,45 @@
     }
   ],
   "by_type": {
-    "Inactive Unplugged Well": 1717,
-    "Unpermitted Disposal of Oil and Gas Wastes": 1226,
-    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 1056,
-    "Proper Construction and Maintenance of Power Line to Well": 1031,
+    "Inactive Unplugged Well": 1689,
+    "Unpermitted Disposal of Oil and Gas Wastes": 1203,
+    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 1055,
+    "Proper Construction and Maintenance of Power Line to Well": 1025,
     "W-3C: Removal of Electrical Service Equipment": 605,
-    "Well Sign": 543,
-    "Rubbish or Debris Might Constitute a Fire Hazard": 501,
-    "Surface Control of Well": 295,
-    "Entrance Sign": 214,
-    "Battery Sign; Commingling Permit": 184
+    "Well Sign": 535,
+    "Rubbish or Debris Might Constitute a Fire Hazard": 496,
+    "Surface Control of Well": 290,
+    "Entrance Sign": 211,
+    "Battery Sign; Commingling Permit": 183
   },
   "by_status": {
-    "Notice of Violation": 6924,
-    "Referred to Austin Field Ops for possible legal enforcement": 998,
-    "Referred to State-Managed Plugging": 482,
-    "Issued a Severance/Seal Order": 187,
+    "Notice of Violation": 6862,
+    "Referred to Austin Field Ops for possible legal enforcement": 981,
+    "Referred to State-Managed Plugging": 459,
+    "Issued a Severance/Seal Order": 184,
     "Referred to State-Managed Cleanup Program": 13
   },
   "by_county": {
-    "HUTCHINSON": 699,
+    "HUTCHINSON": 695,
     "GRAY": 472,
-    "WHEELER": 384,
-    "CARSON": 353,
+    "WHEELER": 368,
+    "CARSON": 352,
     "ARCHER": 256,
-    "WICHITA": 253,
-    "HEMPHILL": 195,
-    "JACK": 185,
+    "WICHITA": 246,
+    "HEMPHILL": 192,
+    "JACK": 179,
     "MOORE": 172,
-    "YOUNG": 165,
-    "GREGG": 144,
+    "YOUNG": 163,
+    "GREGG": 143,
     "CALDWELL": 142,
-    "SHACKELFORD": 125,
+    "SHACKELFORD": 120,
     "WILBARGER": 114,
     "ECTOR": 105,
-    "REAGAN": 104,
     "MARTIN": 104,
+    "REAGAN": 103,
     "PALO PINTO": 98,
     "MILAM": 97,
-    "PECOS": 95
+    "PECOS": 94
   },
   "major_violations": 2
 }

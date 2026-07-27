@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-25T06:52:55.698498+00:00",
-  "total_permits_30d": 481,
+  "updated_at": "2026-07-27T07:16:44.778213+00:00",
+  "total_permits_30d": 497,
   "by_basin": {
-    "Other": 283,
-    "Permian": 169,
+    "Other": 295,
+    "Permian": 173,
     "Eagle Ford": 26,
     "Anadarko": 3
   },
   "by_county": {
     "ANDREWS": 37,
+    "LOVING": 24,
     "REEVES": 20,
-    "LOVING": 18,
     "REAGAN": 14,
     "GAINES": 13,
     "WEBB": 13,
     "GLASSCOCK": 12,
-    "MIDLAND": 9,
     "UPTON": 9,
-    "WARD": 7,
+    "MIDLAND": 8,
+    "HOWARD": 6,
     "MCMULLEN": 6,
-    "WINKLER": 6,
+    "WARD": 6,
     "YOAKUM": 5,
-    "MARTIN": 4,
+    "WINKLER": 5,
     "FRIO": 4,
-    "HOWARD": 4,
+    "MARTIN": 3,
     "BORDEN": 3,
     "CRANE": 3,
     "LA SALLE": 2,
@@ -36,10 +36,6 @@
     "SCURRY": 1
   },
   "daily_counts": [
-    {
-      "date": "2026-06-26",
-      "count": 9
-    },
     {
       "date": "2026-06-29",
       "count": 46
@@ -74,7 +70,7 @@
     },
     {
       "date": "2026-07-08",
-      "count": 38
+      "count": 40
     },
     {
       "date": "2026-07-09",
@@ -82,7 +78,7 @@
     },
     {
       "date": "2026-07-10",
-      "count": 18
+      "count": 22
     },
     {
       "date": "2026-07-12",
@@ -98,11 +94,11 @@
     },
     {
       "date": "2026-07-15",
-      "count": 25
+      "count": 27
     },
     {
       "date": "2026-07-16",
-      "count": 26
+      "count": 28
     },
     {
       "date": "2026-07-17",
@@ -110,30 +106,34 @@
     },
     {
       "date": "2026-07-20",
-      "count": 15
+      "count": 17
     },
     {
       "date": "2026-07-21",
-      "count": 7
+      "count": 12
+    },
+    {
+      "date": "2026-07-22",
+      "count": 8
     }
   ],
   "permit_velocity": {
     "ANDREWS": 37,
+    "LOVING": 24,
     "REEVES": 20,
-    "LOVING": 18,
     "REAGAN": 14,
     "GAINES": 13,
     "WEBB": 13,
     "GLASSCOCK": 12,
-    "MIDLAND": 9,
     "UPTON": 9,
-    "WARD": 7,
+    "MIDLAND": 8,
+    "HOWARD": 6,
     "MCMULLEN": 6,
-    "WINKLER": 6,
+    "WARD": 6,
     "YOAKUM": 5,
-    "MARTIN": 4,
+    "WINKLER": 5,
     "FRIO": 4,
-    "HOWARD": 4,
+    "MARTIN": 3,
     "BORDEN": 3,
     "CRANE": 3,
     "LA SALLE": 2,
