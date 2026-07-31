@@ -1,53 +1,40 @@
 {
-  "updated_at": "2026-07-28T06:58:53.671288+00:00",
-  "total_permits_30d": 497,
+  "updated_at": "2026-07-31T07:05:25.944524+00:00",
+  "total_permits_30d": 457,
   "by_basin": {
-    "Other": 295,
-    "Permian": 173,
-    "Eagle Ford": 26,
-    "Anadarko": 3
+    "Other": 272,
+    "Permian": 157,
+    "Eagle Ford": 27,
+    "Anadarko": 1
   },
   "by_county": {
-    "ANDREWS": 37,
-    "LOVING": 24,
-    "REEVES": 20,
-    "REAGAN": 14,
-    "GAINES": 13,
-    "WEBB": 13,
-    "GLASSCOCK": 12,
-    "UPTON": 9,
-    "MIDLAND": 8,
-    "HOWARD": 6,
-    "MCMULLEN": 6,
-    "WARD": 6,
-    "YOAKUM": 5,
-    "WINKLER": 5,
-    "FRIO": 4,
-    "MARTIN": 3,
+    "ANDREWS": 29,
+    "LOVING": 28,
+    "REEVES": 18,
+    "WEBB": 17,
+    "GLASSCOCK": 13,
+    "SCURRY": 11,
+    "UPTON": 10,
+    "HOWARD": 8,
+    "GAINES": 7,
+    "MIDLAND": 7,
+    "WINKLER": 7,
+    "FRIO": 5,
     "BORDEN": 3,
+    "WARD": 3,
+    "MARTIN": 3,
     "CRANE": 3,
-    "LA SALLE": 2,
     "CULBERSON": 2,
-    "HEMPHILL": 2,
-    "ECTOR": 1,
-    "POTTER": 1,
+    "ECTOR": 2,
+    "LA SALLE": 2,
+    "MCMULLEN": 2,
     "LIVE OAK": 1,
+    "REAGAN": 1,
+    "ROBERTS": 1,
     "TERRY": 1,
-    "SCURRY": 1
+    "YOAKUM": 1
   },
   "daily_counts": [
-    {
-      "date": "2026-06-29",
-      "count": 46
-    },
-    {
-      "date": "2026-06-30",
-      "count": 33
-    },
-    {
-      "date": "2026-07-01",
-      "count": 52
-    },
     {
       "date": "2026-07-02",
       "count": 26
@@ -66,7 +53,7 @@
     },
     {
       "date": "2026-07-07",
-      "count": 50
+      "count": 51
     },
     {
       "date": "2026-07-08",
@@ -82,7 +69,7 @@
     },
     {
       "date": "2026-07-12",
-      "count": 3
+      "count": 5
     },
     {
       "date": "2026-07-13",
@@ -94,55 +81,74 @@
     },
     {
       "date": "2026-07-15",
-      "count": 27
+      "count": 32
     },
     {
       "date": "2026-07-16",
-      "count": 28
+      "count": 29
     },
     {
       "date": "2026-07-17",
       "count": 20
     },
     {
+      "date": "2026-07-19",
+      "count": 1
+    },
+    {
       "date": "2026-07-20",
-      "count": 17
+      "count": 25
     },
     {
       "date": "2026-07-21",
-      "count": 12
+      "count": 22
     },
     {
       "date": "2026-07-22",
-      "count": 8
+      "count": 21
+    },
+    {
+      "date": "2026-07-23",
+      "count": 31
+    },
+    {
+      "date": "2026-07-24",
+      "count": 6
+    },
+    {
+      "date": "2026-07-27",
+      "count": 7
+    },
+    {
+      "date": "2026-07-28",
+      "count": 6
     }
   ],
   "permit_velocity": {
-    "ANDREWS": 37,
-    "LOVING": 24,
-    "REEVES": 20,
-    "REAGAN": 14,
-    "GAINES": 13,
-    "WEBB": 13,
-    "GLASSCOCK": 12,
-    "UPTON": 9,
-    "MIDLAND": 8,
-    "HOWARD": 6,
-    "MCMULLEN": 6,
-    "WARD": 6,
-    "YOAKUM": 5,
-    "WINKLER": 5,
-    "FRIO": 4,
-    "MARTIN": 3,
+    "ANDREWS": 29,
+    "LOVING": 28,
+    "REEVES": 18,
+    "WEBB": 17,
+    "GLASSCOCK": 13,
+    "SCURRY": 11,
+    "UPTON": 10,
+    "HOWARD": 8,
+    "GAINES": 7,
+    "MIDLAND": 7,
+    "WINKLER": 7,
+    "FRIO": 5,
     "BORDEN": 3,
+    "WARD": 3,
+    "MARTIN": 3,
     "CRANE": 3,
-    "LA SALLE": 2,
     "CULBERSON": 2,
-    "HEMPHILL": 2,
-    "ECTOR": 1,
-    "POTTER": 1,
+    "ECTOR": 2,
+    "LA SALLE": 2,
+    "MCMULLEN": 2,
     "LIVE OAK": 1,
+    "REAGAN": 1,
+    "ROBERTS": 1,
     "TERRY": 1,
-    "SCURRY": 1
+    "YOAKUM": 1
   }
 }
