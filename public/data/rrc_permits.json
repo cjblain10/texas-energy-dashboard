@@ -1,32 +1,31 @@
 {
-  "updated_at": "2026-07-31T07:05:25.944524+00:00",
+  "updated_at": "2026-08-01T06:55:46.122893+00:00",
   "total_permits_30d": 457,
   "by_basin": {
-    "Other": 272,
-    "Permian": 157,
-    "Eagle Ford": 27,
+    "Other": 277,
+    "Permian": 155,
+    "Eagle Ford": 24,
     "Anadarko": 1
   },
   "by_county": {
-    "ANDREWS": 29,
     "LOVING": 28,
-    "REEVES": 18,
+    "ANDREWS": 27,
+    "REEVES": 20,
     "WEBB": 17,
     "GLASSCOCK": 13,
     "SCURRY": 11,
     "UPTON": 10,
     "HOWARD": 8,
-    "GAINES": 7,
-    "MIDLAND": 7,
     "WINKLER": 7,
-    "FRIO": 5,
-    "BORDEN": 3,
+    "MIDLAND": 7,
+    "ECTOR": 4,
+    "FRIO": 4,
     "WARD": 3,
-    "MARTIN": 3,
+    "GAINES": 3,
+    "BORDEN": 3,
     "CRANE": 3,
+    "MARTIN": 3,
     "CULBERSON": 2,
-    "ECTOR": 2,
-    "LA SALLE": 2,
     "MCMULLEN": 2,
     "LIVE OAK": 1,
     "REAGAN": 1,
@@ -35,10 +34,6 @@
     "YOAKUM": 1
   },
   "daily_counts": [
-    {
-      "date": "2026-07-02",
-      "count": 26
-    },
     {
       "date": "2026-07-03",
       "count": 2
@@ -89,7 +84,7 @@
     },
     {
       "date": "2026-07-17",
-      "count": 20
+      "count": 21
     },
     {
       "date": "2026-07-19",
@@ -97,7 +92,7 @@
     },
     {
       "date": "2026-07-20",
-      "count": 25
+      "count": 31
     },
     {
       "date": "2026-07-21",
@@ -113,37 +108,40 @@
     },
     {
       "date": "2026-07-24",
-      "count": 6
+      "count": 11
     },
     {
       "date": "2026-07-27",
-      "count": 7
+      "count": 12
     },
     {
       "date": "2026-07-28",
-      "count": 6
+      "count": 14
+    },
+    {
+      "date": "2026-07-30",
+      "count": 1
     }
   ],
   "permit_velocity": {
-    "ANDREWS": 29,
     "LOVING": 28,
-    "REEVES": 18,
+    "ANDREWS": 27,
+    "REEVES": 20,
     "WEBB": 17,
     "GLASSCOCK": 13,
     "SCURRY": 11,
     "UPTON": 10,
     "HOWARD": 8,
-    "GAINES": 7,
-    "MIDLAND": 7,
     "WINKLER": 7,
-    "FRIO": 5,
-    "BORDEN": 3,
+    "MIDLAND": 7,
+    "ECTOR": 4,
+    "FRIO": 4,
     "WARD": 3,
-    "MARTIN": 3,
+    "GAINES": 3,
+    "BORDEN": 3,
     "CRANE": 3,
+    "MARTIN": 3,
     "CULBERSON": 2,
-    "ECTOR": 2,
-    "LA SALLE": 2,
     "MCMULLEN": 2,
     "LIVE OAK": 1,
     "REAGAN": 1,
