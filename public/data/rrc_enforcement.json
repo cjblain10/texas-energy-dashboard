@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-01T06:55:50.467638+00:00",
-  "total_recent": 7650,
+  "updated_at": "2026-08-02T06:58:36.259451+00:00",
+  "total_recent": 7649,
   "items": [
     {
       "date": "2026-07-24",
@@ -115,7 +115,7 @@
   ],
   "by_type": {
     "Inactive Unplugged Well": 1572,
-    "Unpermitted Disposal of Oil and Gas Wastes": 1262,
+    "Unpermitted Disposal of Oil and Gas Wastes": 1261,
     "Proper Construction and Maintenance of Power Line to Well": 1053,
     "W-3C: Removal of Equipment, Piping, Tanks, Trash": 662,
     "Well Sign": 468,
@@ -126,7 +126,7 @@
     "Battery Sign; Commingling Permit": 163
   },
   "by_status": {
-    "Notice of Violation": 6250,
+    "Notice of Violation": 6249,
     "Referred to Austin Field Ops for possible legal enforcement": 811,
     "Referred to State-Managed Plugging": 423,
     "Referred to State-Managed Cleanup Program": 13,
@@ -138,7 +138,7 @@
     "CARSON": 340,
     "WHEELER": 294,
     "WICHITA": 264,
-    "JACK": 187,
+    "JACK": 186,
     "ARCHER": 176,
     "YOUNG": 153,
     "MOORE": 153,
