@@ -1,23 +1,40 @@
 {
-  "updated_at": "2026-08-05T06:59:59.108883+00:00",
-  "total_permits_30d": 26,
+  "updated_at": "2026-08-06T07:00:12.881774+00:00",
+  "total_permits_30d": 76,
   "by_basin": {
-    "Other": 17,
-    "Permian": 7,
+    "Other": 38,
+    "Permian": 35,
+    "Eagle Ford": 1,
     "Haynesville": 1,
     "Anadarko": 1
   },
   "by_county": {
-    "ECTOR": 4,
+    "ANDREWS": 9,
+    "ECTOR": 7,
+    "YOAKUM": 6,
+    "LOVING": 3,
+    "REEVES": 3,
+    "CRANE": 2,
     "GAINES": 2,
+    "FRIO": 1,
     "DAWSON": 1,
+    "OCHILTREE": 1,
     "GREGG": 1,
-    "OCHILTREE": 1
+    "UPTON": 1,
+    "WARD": 1
   },
   "daily_counts": [
     {
       "date": "2026-07-08",
       "count": 1
+    },
+    {
+      "date": "2026-07-12",
+      "count": 1
+    },
+    {
+      "date": "2026-07-13",
+      "count": 2
     },
     {
       "date": "2026-07-19",
@@ -28,27 +45,55 @@
       "count": 4
     },
     {
+      "date": "2026-07-22",
+      "count": 2
+    },
+    {
       "date": "2026-07-23",
-      "count": 1
+      "count": 5
+    },
+    {
+      "date": "2026-07-24",
+      "count": 2
+    },
+    {
+      "date": "2026-07-27",
+      "count": 5
     },
     {
       "date": "2026-07-28",
-      "count": 3
+      "count": 11
     },
     {
       "date": "2026-07-29",
-      "count": 10
+      "count": 15
     },
     {
       "date": "2026-07-30",
-      "count": 6
+      "count": 11
+    },
+    {
+      "date": "2026-07-31",
+      "count": 13
+    },
+    {
+      "date": "2026-08-03",
+      "count": 3
     }
   ],
   "permit_velocity": {
-    "ECTOR": 4,
+    "ANDREWS": 9,
+    "ECTOR": 7,
+    "YOAKUM": 6,
+    "LOVING": 3,
+    "REEVES": 3,
+    "CRANE": 2,
     "GAINES": 2,
+    "FRIO": 1,
     "DAWSON": 1,
+    "OCHILTREE": 1,
     "GREGG": 1,
-    "OCHILTREE": 1
+    "UPTON": 1,
+    "WARD": 1
   }
 }

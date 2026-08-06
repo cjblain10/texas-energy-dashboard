@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T07:00:03.084999+00:00",
-  "total_recent": 7482,
+  "updated_at": "2026-08-06T07:00:18.501504+00:00",
+  "total_recent": 7321,
   "items": [
     {
       "date": "2026-07-30",
@@ -114,45 +114,45 @@
     }
   ],
   "by_type": {
-    "Inactive Unplugged Well": 1536,
-    "Unpermitted Disposal of Oil and Gas Wastes": 1289,
-    "Proper Construction and Maintenance of Power Line to Well": 1065,
-    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 540,
-    "Well Sign": 461,
-    "Rubbish or Debris Might Constitute a Fire Hazard": 432,
-    "Surface Control of Well": 311,
-    "W-3C: Removal of Electrical Service Equipment": 304,
-    "Entrance Sign": 185,
-    "Battery Sign; Commingling Permit": 167
+    "Inactive Unplugged Well": 1512,
+    "Unpermitted Disposal of Oil and Gas Wastes": 1270,
+    "Proper Construction and Maintenance of Power Line to Well": 1055,
+    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 521,
+    "Well Sign": 446,
+    "Rubbish or Debris Might Constitute a Fire Hazard": 424,
+    "Surface Control of Well": 302,
+    "W-3C: Removal of Electrical Service Equipment": 290,
+    "Entrance Sign": 178,
+    "Battery Sign; Commingling Permit": 161
   },
   "by_status": {
-    "Referred to State-Managed Plugging": 482,
-    "Notice of Violation": 6092,
-    "Referred to Austin Field Ops for possible legal enforcement": 792,
-    "Referred to State-Managed Cleanup Program": 17,
+    "Referred to State-Managed Plugging": 476,
+    "Notice of Violation": 5979,
+    "Referred to Austin Field Ops for possible legal enforcement": 754,
+    "Referred to State-Managed Cleanup Program": 13,
     "Issued a Severance/Seal Order": 99
   },
   "by_county": {
     "HUTCHINSON": 605,
     "GRAY": 441,
     "CARSON": 368,
-    "WICHITA": 305,
+    "WICHITA": 304,
     "ARCHER": 194,
     "JACK": 185,
     "WHEELER": 182,
-    "GREGG": 174,
-    "MOORE": 157,
+    "GREGG": 169,
+    "MOORE": 154,
     "YOUNG": 151,
-    "CALDWELL": 128,
-    "HEMPHILL": 123,
+    "CALDWELL": 123,
     "WILBARGER": 116,
+    "HEMPHILL": 115,
     "SHACKELFORD": 101,
-    "PALO PINTO": 95,
     "MILAM": 95,
     "OCHILTREE": 91,
+    "PALO PINTO": 86,
     "GAINES": 86,
     "MARTIN": 85,
-    "PECOS": 80
+    "PECOS": 79
   },
   "major_violations": 2
 }
