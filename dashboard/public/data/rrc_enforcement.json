@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-06T07:00:18.501504+00:00",
-  "total_recent": 7321,
+  "updated_at": "2026-08-07T06:29:08.208670+00:00",
+  "total_recent": 7226,
   "items": [
     {
       "date": "2026-07-30",
@@ -114,44 +114,44 @@
     }
   ],
   "by_type": {
-    "Inactive Unplugged Well": 1512,
-    "Unpermitted Disposal of Oil and Gas Wastes": 1270,
-    "Proper Construction and Maintenance of Power Line to Well": 1055,
-    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 521,
-    "Well Sign": 446,
+    "Inactive Unplugged Well": 1505,
+    "Unpermitted Disposal of Oil and Gas Wastes": 1244,
+    "Proper Construction and Maintenance of Power Line to Well": 1034,
+    "W-3C: Removal of Equipment, Piping, Tanks, Trash": 510,
+    "Well Sign": 440,
     "Rubbish or Debris Might Constitute a Fire Hazard": 424,
-    "Surface Control of Well": 302,
-    "W-3C: Removal of Electrical Service Equipment": 290,
+    "Surface Control of Well": 299,
+    "W-3C: Removal of Electrical Service Equipment": 286,
     "Entrance Sign": 178,
-    "Battery Sign; Commingling Permit": 161
+    "Battery Sign; Commingling Permit": 159
   },
   "by_status": {
-    "Referred to State-Managed Plugging": 476,
-    "Notice of Violation": 5979,
-    "Referred to Austin Field Ops for possible legal enforcement": 754,
+    "Referred to State-Managed Plugging": 474,
+    "Notice of Violation": 5889,
+    "Referred to Austin Field Ops for possible legal enforcement": 751,
     "Referred to State-Managed Cleanup Program": 13,
     "Issued a Severance/Seal Order": 99
   },
   "by_county": {
     "HUTCHINSON": 605,
-    "GRAY": 441,
+    "GRAY": 437,
     "CARSON": 368,
-    "WICHITA": 304,
+    "WICHITA": 303,
     "ARCHER": 194,
     "JACK": 185,
     "WHEELER": 182,
-    "GREGG": 169,
+    "GREGG": 168,
     "MOORE": 154,
     "YOUNG": 151,
     "CALDWELL": 123,
-    "WILBARGER": 116,
-    "HEMPHILL": 115,
+    "HEMPHILL": 108,
+    "WILBARGER": 102,
     "SHACKELFORD": 101,
     "MILAM": 95,
     "OCHILTREE": 91,
-    "PALO PINTO": 86,
     "GAINES": 86,
-    "MARTIN": 85,
+    "PALO PINTO": 84,
+    "MARTIN": 84,
     "PECOS": 79
   },
   "major_violations": 2

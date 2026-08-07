@@ -1,22 +1,23 @@
 {
-  "updated_at": "2026-08-06T07:00:12.881774+00:00",
-  "total_permits_30d": 76,
+  "updated_at": "2026-08-07T06:29:04.086721+00:00",
+  "total_permits_30d": 100,
   "by_basin": {
-    "Other": 38,
-    "Permian": 35,
-    "Eagle Ford": 1,
+    "Other": 50,
+    "Permian": 46,
+    "Eagle Ford": 2,
     "Haynesville": 1,
     "Anadarko": 1
   },
   "by_county": {
     "ANDREWS": 9,
+    "REEVES": 9,
     "ECTOR": 7,
     "YOAKUM": 6,
+    "CRANE": 3,
+    "GAINES": 3,
     "LOVING": 3,
-    "REEVES": 3,
-    "CRANE": 2,
-    "GAINES": 2,
-    "FRIO": 1,
+    "MIDLAND": 3,
+    "FRIO": 2,
     "DAWSON": 1,
     "OCHILTREE": 1,
     "GREGG": 1,
@@ -24,10 +25,6 @@
     "WARD": 1
   },
   "daily_counts": [
-    {
-      "date": "2026-07-08",
-      "count": 1
-    },
     {
       "date": "2026-07-12",
       "count": 1
@@ -62,34 +59,35 @@
     },
     {
       "date": "2026-07-28",
-      "count": 11
+      "count": 12
     },
     {
       "date": "2026-07-29",
-      "count": 15
+      "count": 21
     },
     {
       "date": "2026-07-30",
-      "count": 11
-    },
-    {
-      "date": "2026-07-31",
       "count": 13
     },
     {
+      "date": "2026-07-31",
+      "count": 21
+    },
+    {
       "date": "2026-08-03",
-      "count": 3
+      "count": 11
     }
   ],
   "permit_velocity": {
     "ANDREWS": 9,
+    "REEVES": 9,
     "ECTOR": 7,
     "YOAKUM": 6,
+    "CRANE": 3,
+    "GAINES": 3,
     "LOVING": 3,
-    "REEVES": 3,
-    "CRANE": 2,
-    "GAINES": 2,
-    "FRIO": 1,
+    "MIDLAND": 3,
+    "FRIO": 2,
     "DAWSON": 1,
     "OCHILTREE": 1,
     "GREGG": 1,
